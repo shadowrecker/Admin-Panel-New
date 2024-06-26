@@ -1,0 +1,4 @@
+export const FETCH_OVERVIEW_STATS = 'FETCH_OVERVIEW_STATS';
+export const FETCH_RECENT_ALERTS = 'FETCH_RECENT_ALERTS';
+export const FETCH_VIDEO_HISTORY = 'FETCH_VIDEO_HISTORY';
+// Add other action types here

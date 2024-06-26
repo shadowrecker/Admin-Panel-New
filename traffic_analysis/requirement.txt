@@ -1,0 +1,9 @@
+for installing this dependencies use "python -r requirements.txt"
+
+django
+torch
+torchvision
+opencv-python-headless
+timm
+efficientnet_pytorch
+albumentations
